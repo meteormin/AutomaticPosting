@@ -47,7 +47,7 @@
 PHP8.0 - Laravel/lumen 8.x)
 => Tistory연동 및 html파일, 데이터분석 로직
 
-python3
+python3.8.5 + Anaconda3-python3.8.5
 => OpenDart, 키움 API
 
 JavaScript
