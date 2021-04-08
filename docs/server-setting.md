@@ -91,7 +91,12 @@ Apache2.4:
 mariaDB:
   - version: 15.1 Distrib 10.3.25-MariaDB
   - install: sudo apt install mariadb-server
-
+  - addtional:
+  ```
+  # /etc/mysql/mariadb.conf.d/50-server.cnf
+  bind-address = 127.0.0.1 #로컬 접근만 가능
+  #bind-address = 127.0.0.1 외부 접근 가능하게 주석처리
+  ```
 python3-pip:
   - version: pip 20.0.2 with python3.8
   - install: sudo apt install python3-pip
