@@ -6,7 +6,15 @@ Anaconda:
  - install: https://www.anaconda.com/products/individual
 Kiwoom API: 
  -install: https://www3.kiwoom.com/nkw.templateFrameSet.do?m=m1408010600
- 
+KoaPy: https://koapy.readthedocs.io/en/latest/readme.html
+ - install: pip install koapy
+ - addtional:
+ ```
+ # conda 콘솔로 접근
+ set CONDA_FORCE_32BIT=1 # 32비트 설정
+ conda create -n x86 python=3.8 anaconda # 32비트환경 설치
+ conda activate x86 # 32비트 환경 활성화
+ ```
 ## ubuntu
 PHP: 
  - version: 8.0.3
