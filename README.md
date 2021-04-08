@@ -40,6 +40,8 @@
 ### 개발환경
 #### 서버
 > [server setting](./docs/server-setting.md)
+>> [관련 issue]
+>> [apache + php](https://github.com/miniyus/AutomaticPosting/issues/1)
 
 윈도우즈 서버 2016
 - 키움 API연동
