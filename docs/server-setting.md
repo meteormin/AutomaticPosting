@@ -4,8 +4,10 @@
 Anaconda:
  - version: conda 4.9.2(64-bit) with python3.8.5
  - install: https://www.anaconda.com/products/individual
+ - 
 Kiwoom API: 
  -install: https://www3.kiwoom.com/nkw.templateFrameSet.do?m=m1408010600
+ 
 KoaPy: https://koapy.readthedocs.io/en/latest/readme.html
  - install: pip install koapy
  - addtional:
