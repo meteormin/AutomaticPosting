@@ -8,7 +8,7 @@ Anaconda:
 Kiwoom API: 
  - install: https://www3.kiwoom.com/nkw.templateFrameSet.do?m=m1408010600
  
-KoaPy: https://koapy.readthedocs.io/en/latest/readme.html
+koapy: https://koapy.readthedocs.io/en/latest/readme.html
  - install: pip install koapy
  - addtional:
  ```
