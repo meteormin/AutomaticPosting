@@ -91,7 +91,7 @@ Apache2.4:
 mariaDB:
   - version: 15.1 Distrib 10.3.25-MariaDB
   - install: sudo apt install mariadb-server
-  - addtional:
+  - addtional: 50-server.cnf
   ```
   # /etc/mysql/mariadb.conf.d/50-server.cnf
   bind-address = 127.0.0.1 #로컬 접근만 가능
