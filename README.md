@@ -66,5 +66,7 @@ MariaDB
 4. 블로그에 포스팅한다.
 
 ## 구현
+> [issues](https://github.com/miniyus/AutomaticPosting/issues)
+
 ## 테스트
 ## 결과
