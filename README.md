@@ -39,6 +39,8 @@
 ## 설계
 ### 개발환경
 #### 서버
+> [server setting](./docs/server-setting.md)
+
 윈도우즈 서버 2016
 - 키움 API연동
 우분투 20.04LTS
