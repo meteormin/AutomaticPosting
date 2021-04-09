@@ -42,7 +42,7 @@
 > [server setting](./docs/server-setting.md)
 >> [관련 issue]<br>
 >> 1. [apache + php](https://github.com/miniyus/AutomaticPosting/issues/1)
->> 2. [windows + kiwoomAPI)(https://github.com/miniyus/AutomaticPosting/issues/2)
+>> 2. [windows + kiwoomAPI](https://github.com/miniyus/AutomaticPosting/issues/2)
 
 윈도우즈 서버 2016
 - 키움 API연동
