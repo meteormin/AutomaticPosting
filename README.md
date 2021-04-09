@@ -1,5 +1,5 @@
 # AutomaticPosting
-> Ver 0.0.1
+> Ver 0.0.2
 주식 정보분석 및 블로그 포스팅 자동화
 ## 개요
 주식 정보분석 및 블로그 포스팅 자동화
@@ -42,6 +42,7 @@
 > [server setting](./docs/server-setting.md)
 >> [관련 issue]<br>
 >> 1. [apache + php](https://github.com/miniyus/AutomaticPosting/issues/1)
+>> 2. [windows + kiwoomAPI)(https://github.com/miniyus/AutomaticPosting/issues/2)
 
 윈도우즈 서버 2016
 - 키움 API연동
