@@ -71,9 +71,9 @@ MariaDB
 ## 구현
 > [issues](https://github.com/miniyus/AutomaticPosting/issues)
 
-### [Lumen](https://github.com/miniyus/AutomaticPosting-lumen)
+### [Lumen](https://github.com/miniyus/AutomaticPosting-lumen/tree/master)
 
-### [kiwoom with Python](https://github.com/miniyus/AutomaticPosting-python)
+### [kiwoom with Python](https://github.com/miniyus/AutomaticPosting-python/tree/master)
 
 ## 테스트
 ## 결과
