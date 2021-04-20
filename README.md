@@ -55,11 +55,12 @@ PHP7.4 - Laravel/lumen 8.x<br>
 python3.8.5 + Anaconda3-python3.8.5<br>
 => OpenDart, 키움 API
 
-JavaScript
+JavaScript<br>
 => Chart 라이브러리
 
-MariaDB
+MariaDB<br>
 => DBMS
+
 ### 시스템 흐름도
 ![image](https://user-images.githubusercontent.com/42951596/113844114-203fab00-97cf-11eb-91bf-22e587f52415.png)
 
