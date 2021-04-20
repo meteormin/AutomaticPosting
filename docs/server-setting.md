@@ -1,6 +1,8 @@
 # Server Setting
 
-## windows server
+## windows
+> windows server [2016, 2019] , windows 10 이상
+
 Anaconda:
  - version: conda 4.9.2(64-bit) with python3.8.5
  - install: https://www.anaconda.com/products/individual
@@ -17,7 +19,7 @@ koapy: https://koapy.readthedocs.io/en/latest/readme.html
  conda create -n x86 python=3.8 anaconda # 32비트환경 설치
  conda activate x86 # 32비트 환경 활성화
  ```
-## ubuntu
+## ubuntu 20.04.2 LTS
 PHP: 
  - version: 8.0.3
  - install: sudo apt install php8.0
@@ -107,7 +109,7 @@ mariaDB:
   bind-address = 127.0.0.1 #로컬 접근만 가능
   #bind-address = 127.0.0.1 외부 접근 가능하게 주석처리
   ```
-python3-pip:
-  - version: pip 20.0.2 with python3.8
-  - install: sudo apt install python3-pip
+~~python3-pip:~~<br>
+  ~~- version: pip 20.0.2 with python3.8~~<br>
+  ~~- install: sudo apt install python3-pip~~<br>
   
