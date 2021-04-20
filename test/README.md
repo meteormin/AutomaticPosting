@@ -1,6 +1,6 @@
 # Test Responses
 
-## [섹터 별 주가정보](./sector_13.json)
+## [섹터 별 주가정보](./sector_013.json)
 
 ## [corp-codes](./corp-codes.json)
 
