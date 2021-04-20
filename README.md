@@ -49,10 +49,10 @@
 우분투 20.04LTS
 - Open Dart 및 Tistory블로그 연동
 #### 언어
-PHP8.0 - Laravel/lumen 8.x)
+PHP7.4 - Laravel/lumen 8.x<br>
 => Tistory연동 및 html파일, 데이터분석 로직
 
-python3.8.5 + Anaconda3-python3.8.5
+python3.8.5 + Anaconda3-python3.8.5<br>
 => OpenDart, 키움 API
 
 JavaScript
