@@ -1,4 +1,4 @@
-# test responses
+# Test Responses
 
 ## [섹터 별 주가정보](./sector_13.json)
 
