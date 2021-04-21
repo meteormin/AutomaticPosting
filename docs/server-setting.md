@@ -9,7 +9,7 @@ Anaconda:
  - 
 Kiwoom API: 
  - install: https://www3.kiwoom.com/nkw.templateFrameSet.do?m=m1408010600
- 
+
 koapy: https://koapy.readthedocs.io/en/latest/readme.html
  - install: pip install koapy
  - addtional:
@@ -19,6 +19,9 @@ koapy: https://koapy.readthedocs.io/en/latest/readme.html
  conda create -n x86 python=3.8 anaconda # 32비트환경 설치
  conda activate x86 # 32비트 환경 활성화
  ```
+
+OpenSSh: https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse
+
 ## ubuntu 20.04.2 LTS
 PHP: 
  - version: 8.0.3
@@ -113,3 +116,5 @@ mariaDB:
   ~~- version: pip 20.0.2 with python3.8~~<br>
   ~~- install: sudo apt install python3-pip~~<br>
   
+ sshpass: sudo apt install sshpass
+  - sshpass -p password ssh user@ip 
