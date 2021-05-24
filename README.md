@@ -68,6 +68,7 @@ MariaDB<br>
 
 ### 시스템 흐름도
 ![image](https://user-images.githubusercontent.com/42951596/113844114-203fab00-97cf-11eb-91bf-22e587f52415.png)
+> tistory에서 Word Press로 이전
 
 1. 키움,Dart API를 통해 데이터를 가져온다.
 2. 필요한 데이터만 가져와서 정형화(객체화) 한다.
