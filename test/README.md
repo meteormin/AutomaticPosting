@@ -8,4 +8,4 @@
 
 ## [refined](./absolute-refined.json)
 
-## [Word Press]([http://34.72.111.228)
+## [Word Press](http://34.72.111.228)
