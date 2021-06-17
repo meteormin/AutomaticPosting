@@ -75,6 +75,19 @@ MariaDB<br>
 3. 데이터를 가지고 의미있는 데이터표를 생성(순위 매김)
 4. 블로그에 포스팅한다.
 
+### 메인서버 흐름도
+![image](https://user-images.githubusercontent.com/42951596/122399876-26fc5280-cfb6-11eb-91f2-65165d541dc7.png)
+
+#### OpenDart 모듈
+![image](https://user-images.githubusercontent.com/42951596/122399993-409d9a00-cfb6-11eb-816c-c815d0522ad7.png)
+
+#### Kiwoom 모듈
+![image](https://user-images.githubusercontent.com/42951596/122400027-48f5d500-cfb6-11eb-93d0-ba9ac307f3f1.png)
+
+
+### 윈도우즈서버 흐름도
+![image](https://user-images.githubusercontent.com/42951596/122399930-34194180-cfb6-11eb-8324-d679e994f65f.png)
+
 ## 구현
 > [issues](https://github.com/miniyus/AutomaticPosting/issues)
 
@@ -85,5 +98,15 @@ MariaDB<br>
 ## [테스트](./test)
 
 
-
 ## 결과
+
+### Data Table
+![image](https://user-images.githubusercontent.com/42951596/122400072-56ab5a80-cfb6-11eb-85d2-fc37d5ccb89a.png)
+
+### Blog Posting
+![image](https://user-images.githubusercontent.com/42951596/122400120-632fb300-cfb6-11eb-8639-db8cc2b4e4e0.png)
+
+### Infographics
+![image](https://user-images.githubusercontent.com/42951596/122400238-7fcbeb00-cfb6-11eb-8a0a-dbee5d69a047.png)
+
+
