@@ -5,6 +5,6 @@ user: miniyu97<br>
 email: miniyu97@gmail.com<br>
 
 os: ubuntu 20.04LTS<br>
-ip: 34.72.111.228<br>
+ip: 35.226.120.116<br>
 user: miniyu97<br>
 email: miniyu97@gmail.com<br>
